@@ -9,5 +9,6 @@ Episodes discussing **product leadership**:
 - [Matt MacInnis](../episodes/matt-macinnis/transcript.md)
 - [Nikita Miller](../episodes/nikita-miller/transcript.md)
 - [Ravi Mehta](../episodes/ravi-mehta/transcript.md)
+- [Sherif Mansour](../episodes/sherif-mansour/transcript.md)
 - [Tobi Lutke](../episodes/tobi-lutke/transcript.md)
 - [Tom Conrad](../episodes/tom-conrad/transcript.md)

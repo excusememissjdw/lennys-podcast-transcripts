@@ -93,6 +93,7 @@ Episodes discussing **product management**:
 - [Sarah Tavel](../episodes/sarah-tavel/transcript.md)
 - [Seth Godin](../episodes/seth-godin/transcript.md)
 - [Shaun Clowes](../episodes/shaun-clowes/transcript.md)
+- [Sherif Mansour](../episodes/sherif-mansour/transcript.md)
 - [Shreyas Doshi](../episodes/shreyas-doshi/transcript.md)
 - [Shweta Shriva](../episodes/shweta-shriva/transcript.md)
 - [Sriram and Aarthi](../episodes/sriram-and-aarthi/transcript.md)

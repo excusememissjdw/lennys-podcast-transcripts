@@ -13,6 +13,7 @@ Episodes discussing **hiring**:
 - [Melissa Tan](../episodes/melissa-tan/transcript.md)
 - [Merci Grace](../episodes/merci-grace/transcript.md)
 - [Sanchan Saxena](../episodes/sanchan-saxena/transcript.md)
+- [Sherif Mansour](../episodes/sherif-mansour/transcript.md)
 - [Sri Batchu](../episodes/sri-batchu/transcript.md)
 - [Brendan Foody](../episodes/brendan-foody/transcript.md)
 - [Emily Kramer](../episodes/emily-kramer/transcript.md)
