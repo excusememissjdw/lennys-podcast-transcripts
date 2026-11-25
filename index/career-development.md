@@ -18,6 +18,7 @@ Episodes discussing **career development**:
 - [Paige Costello](../episodes/paige-costello/transcript.md)
 - [Petra Wille](../episodes/petra-wille/transcript.md)
 - [Shaun Clowes](../episodes/shaun-clowes/transcript.md)
+- [Sherif Mansour](../episodes/sherif-mansour/transcript.md)
 - [Tamar Yehoshua](../episodes/tamar-yehoshua/transcript.md)
 - [Vikrama Dhiman](../episodes/vikrama-dhiman/transcript.md)
 - [Andy Johns](../episodes/andy-johns/transcript.md)

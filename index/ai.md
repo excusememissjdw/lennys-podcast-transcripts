@@ -11,6 +11,7 @@ Episodes discussing **AI**:
 - [Marily Nika](../episodes/marily-nika/transcript.md)
 - [Mike Krieger](../episodes/mike-krieger/transcript.md)
 - [Paul Adams](../episodes/paul-adams/transcript.md)
+- [Sherif Mansour](../episodes/sherif-mansour/transcript.md)
 - [Tamar Yehoshua](../episodes/tamar-yehoshua/transcript.md)
 - [Alexander Embiricos](../episodes/alexander-embiricos/transcript.md)
 - [Austin Hay](../episodes/austin-hay/transcript.md)
