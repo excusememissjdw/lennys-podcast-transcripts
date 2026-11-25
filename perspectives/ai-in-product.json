@@ -1,0 +1,100 @@
+{
+  "topic": {
+    "slug": "ai-in-product",
+    "name": "AI in product",
+    "description": "How AI is changing product teams, product strategy and who gets hired."
+  },
+  "debates": [
+    {
+      "slug": "pms-build-or-steer",
+      "question": "Should PMs build and ship it themselves, or steer the people who do?",
+      "left_label": "PMs should build & ship",
+      "left_summary": "AI collapses the roles: PMs prototype, write code and ship to production themselves.",
+      "right_label": "PMs should steer, not row",
+      "right_summary": "Throughput is cheap now; the PM's job is direction, context and decision velocity.",
+      "insight": "The loudest 'build it yourself' voices run AI building tools (Vercel, Bolt, Airtable). Leaders inside large established companies are more cautious, and even Sherif makes an exception for startups and 0-to-1 projects, where everyone should do everything.",
+      "positions": [
+        {"episode": "julie-zhuo", "position": -85, "time": "00:14:42", "stance": "Drop the role distinctions entirely; everyone is a builder.", "quote": "So in some ways we can drop all of these different role distinctions and call ourselves builders. I think that's sort of the most general purpose way of thinking about what we can all be."},
+        {"episode": "guillermo-rauch", "position": -75, "time": "00:16:19", "stance": "Remove the limits: PMs should prototype and ship to production.", "quote": "And so you could imagine removing all those limitations, a designer that can ship a fully-baked product, a product manager that can prototype and shift to production."},
+        {"episode": "eric-simons", "position": -65, "time": "00:54:54", "stance": "PMs will write code instead of writing tickets.", "quote": "PMs, they're going to be \"writing code\", quote, unquote, instead of just writing a JIRA ticket and waiting for a developer to do it."},
+        {"episode": "asha-sharma", "position": -60, "time": "09:35", "stance": "Full-stack builders are having a renaissance, even in old enterprises.", "quote": "And so I really believe in the concept of the full stack builder. You're seeing it with a bunch of the AI native companies that are coming up. I'm even seeing it in enterprises that have been around for 50 years starting to operate in that way."},
+        {"episode": "howie-liu", "position": -45, "time": "00:53:16", "stance": "PMs must become hybrid PM-prototypers with design sense.", "quote": "It means that as a PM you need to start looking more like a hybrid PM prototyper who has some good design sensibilities."},
+        {"episode": "aparna-chennapragada", "position": -30, "time": "00:22:59", "stance": "Always prototype to communicate, but that doesn't make everyone an engineer.", "quote": "If you're not prototyping and building to see what you want to build, I think you're doing it wrong. ... And I think the notion is not to say, \"Hey, now everybody's just a biggest version of a software engineer.\" It is to say you have the fastest path to seeing and experiencing what's in your mind to be able to communicate."},
+        {"episode": "tamar-yehoshua", "position": -15, "time": "00:50:21", "stance": "The lines will blur, but over five to ten years.", "quote": "And in five to 10 years, I think the lines between product managers and engineers and designers are going to blur because AI will enable product managers to build prototypes, to build designs."},
+        {"episode": "marily-nika", "position": 55, "time": "11:40", "stance": "AI PMs don't need to code or train models.", "quote": "You shouldn't be overwhelmed by these technologies if you don't have a technical background because you can learn these things and as a PM you'll never need to actually train or code."},
+        {"episode": "sherif-mansour", "position": 75, "time": "00:25:03", "stance": "Direct the ship, don't row it. Direction is the bottleneck, not throughput.", "quote": "We realize throughput's not our problem. Direction is our problem. Throughput's getting cheaper. So, you know, I wrote this blog post internally that was, you know, direct the ship, don't row it."}
+      ]
+    },
+    {
+      "slug": "pm-role-ai-era",
+      "question": "Will AI shrink the PM role, or make it more valuable?",
+      "left_label": "Shrinking / merging into 'builder'",
+      "left_summary": "Roles dissolve, teams get radically smaller and PM headcount ratios fall.",
+      "right_label": "Expanding / more valuable",
+      "right_summary": "More output means more need for alignment, judgement and someone steering.",
+      "insight": "Almost nobody says PMs disappear soon. The real split is whether the title survives ('builder' vs 'PM') and whether the bar rises. Several guests agree that weaker PM roles go away while strong ones get more valuable.",
+      "positions": [
+        {"episode": "julie-zhuo", "position": -70, "time": "00:00:04", "stance": "Dissolve traditional roles; 'builder' should be the title.", "quote": "We need to dissolve the boundaries of these traditional roles and call ourselves builders. I'd love for us to get to the world where that's the title."},
+        {"episode": "edwin-chen", "position": -45, "time": "00:05:40", "stance": "Tiny teams with extreme revenue-per-employee become inevitable.", "quote": "We hit over a billion of revenue last year with under 100 people. And I think we're going to see companies with even crazier ratios, like 100 billion per employee in the next few years."},
+        {"episode": "claire-vo", "position": -20, "time": "01:02:36", "stance": "Not eliminated, but ratios and skills will shift, maybe fast.", "quote": "Is it going to eliminate PMs next year? Probably not. Are the ratios between PMs and other teams going to shift over time? Yes. Are the skills required going to shift? Yes. Could they shift much faster than we all anticipate? Probably."},
+        {"episode": "tamar-yehoshua", "position": 0, "time": "01:01:30", "stance": "Weak PM jobs go away; great PMs keep great jobs.", "quote": "It's not going to be harder to be a great PM, but to be a PM, the not so good PMs jobs will go away. The great PMs will still have great jobs."},
+        {"episode": "howie-liu", "position": 35, "time": "00:53:16", "stance": "Not irrelevant: people who jump on the train become more effective.", "quote": "So, I like to think people who are willing to jump on the train are just going to become more and more effective. It's not like, oh, as a PM my role is becoming entirely irrelevant, right?"},
+        {"episode": "sherif-mansour", "position": 85, "time": "00:25:58", "stance": "More throughput means more people needed to steer, so more PMs.", "quote": "There's more throughput, so I need more people to steer the ship. It's probably reflective of some of the results you're seeing on on more PMs being hired."}
+      ]
+    },
+    {
+      "slug": "bolt-on-or-rebuild",
+      "question": "Bolt AI onto your existing product, or rebuild it AI-native?",
+      "left_label": "Bolt AI onto existing workflows",
+      "left_summary": "Meet users where they are: add AI to the flows that already exist and evolve.",
+      "right_label": "Refound it AI-native",
+      "right_summary": "AI is a paradigm shift: rethink the product, the company and the culture from scratch.",
+      "insight": "Founders who went through a near-death or reinvention moment (Intercom, Airtable, Gamma) argue for going all-in. Sherif's nuance is that for an established product with millions of users, bolting AI onto real workflows is how you get to AI-native.",
+      "positions": [
+        {"episode": "sherif-mansour", "position": -70, "time": "00:53:03", "stance": "With an established product, bolt AI onto the flows that already exist.", "quote": "If you have an established product you have something ready today the best way to reinvent your product to be AI native is to understand the flows that exist in your product and literally bolt on AI to them which sounds dirty like you may not market it that way."},
+        {"episode": "marily-nika", "position": -50, "time": "04:11", "stance": "Everything becomes AI by default; it gets sprinkled into existing products.", "quote": "What I'm advocating for and what I'm telling people is that in the future everything will be AI by default. So even if you have something that's technology focused, you'll see a lot of AI starting to get sprinkled in there."},
+        {"episode": "grant-lee", "position": 45, "time": "00:10:02", "stance": "A bet-the-company moment: change everything and rebuild around AI.", "quote": "And so we really asked ourselves, okay, what do we need to change? And the answer is we need to fundamentally change everything. It for us almost became this sort of bet the company sort of moment."},
+        {"episode": "dhanji-r-prasanna", "position": 55, "time": "00:06:00", "stance": "Transform the whole company, org structure included, to be AI-native.", "quote": "I think we should do it centrally and it's important for us to be ahead of the game and be an AI native company because that's where the industry is heading."},
+        {"episode": "eoghan-mccabe", "position": 85, "time": "00:56:26", "stance": "Don't half-ass it; sprinkled-on AI with the same culture won't work.", "quote": "So, you either decide to pay the price or get out. Don't half-ass it. You see all these companies saying, we do AI and they've just sprinkle a little bit of crappy AI and they've got the same cultures. It won't work."},
+        {"episode": "howie-liu", "position": 90, "time": "00:08:39", "stance": "Every software product has to be refounded.", "quote": "Certainly every software product in my opinion, has to be refounded because AI is such a paradigm shift."}
+      ]
+    },
+    {
+      "slug": "hire-juniors",
+      "question": "In an AI world, should you hire more juniors or fewer?",
+      "left_label": "Hire more AI-native juniors",
+      "left_summary": "Juniors who grew up with AI bring new ways of working and move astonishingly fast.",
+      "right_label": "Fewer juniors, lean on seniors",
+      "right_summary": "Ambiguity and AI slop need experienced judgement; juniors over-rely on the tools.",
+      "insight": "Companies trying to change how an existing workforce works (Atlassian, Block) value AI-native juniors as change agents. At the frontier (OpenAI), ambiguity makes juniors harder to support, and Cursor sees juniors leaning on AI too heavily.",
+      "positions": [
+        {"episode": "sherif-mansour", "position": -80, "time": "00:34:51", "stance": "Over-index on juniors: they bring AI-native ways of working; seniors catch the slop.", "quote": "So I would say that's the third big thing is like we have definitely overindexed on hiring more juniors than seniors because again our context is we have an established workforce and established team that are learning to transform how they work."},
+        {"episode": "dan-shipper", "position": -75, "time": "00:00:20", "stance": "Kids with ChatGPT grow faster than anyone he's worked with.", "quote": "I hate the headlines that are like, \"Entry-level jobs are taken away by AI.\" Whenever I see a kid with ChatGPT, I'm like, \"Holy shit, they're going to go so much faster than any other person that I've worked with.\""},
+        {"episode": "elena-verna-40", "position": -65, "time": "01:25:38", "stance": "The 'no jobs for new grads' narrative is false for AI-native grads.", "quote": "There's this narrative going in the market always that new hires, sorry, new grads have no jobs in the market left because all of the entry-level jobs are automated. I actually think that's quite false, because new grads, especially AI-native new grads..."},
+        {"episode": "dhanji-r-prasanna", "position": -40, "time": "00:44:34", "stance": "Optimise for eagerness to learn AI tools, college grad or veteran.", "quote": "But I'm much more keen on looking for that college grad who just really is eager to learn about these tools and open to it, or even the veteran who has embraced these tools and figured it out."},
+        {"episode": "michael-truell", "position": 10, "time": "00:49:43", "stance": "Both benefit, but juniors go too wholesale on AI.", "quote": "Both of these cohorts benefit in big ways. ... The junior engineers we see going a little too wholesale, relying on AI for everything, and we're not yet in a place where you can kind of do that end-to-end on a professional tool."},
+        {"episode": "kevin-weil", "position": 45, "time": "00:49:54", "stance": "At the frontier, ambiguity makes junior PMs hard to support.", "quote": "There is a massive amount of ambiguity here, it is not the kind of place, and we have trouble sometimes with more junior PMs because of this, because it's just not the place where someone is going to come in and say, \"Okay, here's the landscape, here's your area, I want you to go do this thing.\""}
+      ]
+    }
+  ],
+  "guest_context": {
+    "sherif-mansour": ["enterprise", "b2b", "operator", "Atlassian"],
+    "julie-zhuo": ["startup", "b2b", "founder", "Sundial (ex-Facebook)"],
+    "guillermo-rauch": ["scaleup", "b2b", "founder", "Vercel"],
+    "eric-simons": ["startup", "both", "founder", "StackBlitz / Bolt"],
+    "asha-sharma": ["enterprise", "b2b", "operator", "Microsoft"],
+    "howie-liu": ["scaleup", "b2b", "founder", "Airtable"],
+    "aparna-chennapragada": ["enterprise", "both", "operator", "Microsoft"],
+    "tamar-yehoshua": ["scaleup", "b2b", "operator", "Glean (ex-Slack)"],
+    "marily-nika": ["enterprise", "both", "operator", "Meta (ex-Google)"],
+    "claire-vo": ["scaleup", "b2b", "operator", "LaunchDarkly / ChatPRD"],
+    "edwin-chen": ["scaleup", "b2b", "founder", "Surge AI"],
+    "grant-lee": ["startup", "both", "founder", "Gamma"],
+    "eoghan-mccabe": ["scaleup", "b2b", "founder", "Intercom"],
+    "dhanji-r-prasanna": ["enterprise", "both", "operator", "Block"],
+    "dan-shipper": ["startup", "b2c", "founder", "Every"],
+    "elena-verna-40": ["startup", "both", "operator", "Lovable"],
+    "michael-truell": ["startup", "b2b", "founder", "Cursor"],
+    "kevin-weil": ["scaleup", "both", "operator", "OpenAI"]
+  }
+}
